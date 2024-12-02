@@ -7,8 +7,6 @@
 
 <p align="left"> <a href="https://twitter.com/iavaa__" target="blank"><img src="https://img.shields.io/twitter/follow/iavaa__?logo=twitter&style=for-the-badge" alt="iavaa__" /></a> </p>
 
-- 🔭 I’m currently working on [Il Signor Cervo](https://github.com/iAVAA/Il-Signor-Cervo)
-
 - 👨‍💻 All of my projects are available in my [portfolio](https://iavaa.github.io/iAVA-Website/src/pages/en/index)
 
 - 📄 Know about my experiences in my [resume](https://iavaa.github.io/iAVA-Website/src/files/Summary/cv.pdf)
